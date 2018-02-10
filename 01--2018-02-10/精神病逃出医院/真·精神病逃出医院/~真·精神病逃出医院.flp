@@ -1,0 +1,6 @@
+﻿<flash_project name="~真·精神病逃出医院" version="1">
+	<project_file path="./~真·精神病逃出医院.fla" filetype="fla" profile="" def_file="true"/>
+	<project_file path="./mochi/as2/MochiServices.as" filetype="as"/>
+	<project_file path="./mochi/as2/MochiScores.as" filetype="as"/>
+	<project_file path="./mochi/as2/MochiDigits.as" filetype="as"/>
+</flash_project>
